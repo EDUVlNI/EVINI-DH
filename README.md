@@ -10,12 +10,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EDUVlNI/evini-loader/
 
 [Ver código desta versão](https://github.com/EDUVlNI/evini-loader/blob/51980289223d7cc0fc8c6c0b9db0f5a53d1dd0a3/main.lua) · [Repositório original](https://github.com/EDUVlNI/evini-loader)
 
-## Nova versão com aba Hitbox (Painhood)
+## Nova versão com Hitbox (Painhood) e Triggerbot
 
-A versão 4.3 acrescenta uma expansão local independente para o Painhood informado pelo usuário, preservando a lógica da Hitbox original. O funcionamento dos acertos no servidor ainda não foi validado. [Detalhes e limites](https://github.com/EDUVlNI/evini-loader#hitbox-painhood--42).
+A versão 4.4 acrescenta uma expansão local independente para o Painhood informado pelo usuário, preservando a lógica da Hitbox original. Inclui também Triggerbot com tecla, quadrado de ativação e verificação de paredes configuráveis. Compatibilidade do disparo depende do executor e da arma. [Detalhes e limites](https://github.com/EDUVlNI/evini-loader#hitbox-painhood--42).
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/EDUVlNI/evini-loader/9927e2e05facff8e31743f61d384bcb121e7c88d/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EDUVlNI/evini-loader/e42c185f222ee9efd1aef047e989ab63cde8fae6/main.lua"))()
 ```
 
 ## Murder Mystery 2

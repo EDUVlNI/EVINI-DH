@@ -12,10 +12,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EDUVlNI/evini-loader/
 
 ## Nova versão com Hitbox (Painhood) e Triggerbot
 
-A versão 4.4 acrescenta uma expansão local independente para o Painhood informado pelo usuário, preservando a lógica da Hitbox original. Inclui também Triggerbot com tecla, quadrado de ativação e verificação de paredes configuráveis. Compatibilidade do disparo depende do executor e da arma. [Detalhes e limites](https://github.com/EDUVlNI/evini-loader#hitbox-painhood--42).
+A versão 4.5 acrescenta uma expansão local independente para o Painhood informado pelo usuário, preservando a lógica da Hitbox original. Inclui Triggerbot automático por corpo sob o cursor, com um clique por entrada, status visível e área quadrada opcional. Compatibilidade do disparo depende do executor e da arma. [Detalhes e limites](https://github.com/EDUVlNI/evini-loader#hitbox-painhood--42).
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/EDUVlNI/evini-loader/e42c185f222ee9efd1aef047e989ab63cde8fae6/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EDUVlNI/evini-loader/b254a37dcdba90f0ea78eaae34a17864f4342847/main.lua"))()
 ```
 
 ## Murder Mystery 2

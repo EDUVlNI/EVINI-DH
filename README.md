@@ -1,21 +1,21 @@
 # EVINI · Da Hood
 
-Página do executável EVINI para Da Hood. Este link preserva a versão solicitada, fixada no commit `51980289223d7cc0fc8c6c0b9db0f5a53d1dd0a3` do repositório original.
+## Executar · versão 5.0
 
-## Executar
+**K abre e fecha** o painel no estilo das Configurações do projeto do Roblox Studio: degradê preto, coluna à esquerda e transições suaves. Lista com Cam Lock, Hitbox, Triggerbot, Visual, Jogadores e Ajustes. Todas as opções anteriores foram preservadas, exceto a Hitbox (Painhood), removida a pedido do usuário. O status do trigger foi substituído por sons de ativação e desativação.
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EDUVlNI/evini-loader/d271bdcbda7927b299461c87aa74ba2d23964b1c/main.lua"))()
+```
+
+[Detalhes, controles e limites](https://github.com/EDUVlNI/evini-loader). Compilação e testes simulados passaram; aparência, som e compatibilidade precisam de conferência dentro do jogo.
+
+## Versão original preservada
+
+Link histórico solicitado anteriormente, anterior à nova interface:
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EDUVlNI/evini-loader/51980289223d7cc0fc8c6c0b9db0f5a53d1dd0a3/main.lua"))()
-```
-
-[Ver código desta versão](https://github.com/EDUVlNI/evini-loader/blob/51980289223d7cc0fc8c6c0b9db0f5a53d1dd0a3/main.lua) · [Repositório original](https://github.com/EDUVlNI/evini-loader)
-
-## Nova versão com Hitbox (Painhood) e Triggerbot
-
-A versão 4.8 acrescenta uma expansão local independente para o Painhood informado pelo usuário, preservando a lógica da Hitbox original. Inclui Triggerbot automático por corpo sob o cursor, com um clique por entrada, detecção de cabeça e pés por volume quando a colisão não responde, pausa com faca equipada, status visível e área quadrada opcional considerando todas as partes do corpo. Compatibilidade do disparo depende do executor e da arma. [Detalhes e limites](https://github.com/EDUVlNI/evini-loader#hitbox-painhood--42).
-
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/EDUVlNI/evini-loader/f3db8869b5cab1d521d725e46af899ec05f6a02a/main.lua"))()
 ```
 
 ## Murder Mystery 2

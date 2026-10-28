@@ -1,11 +1,11 @@
 # EVINI · Da Hood
 
-## Executar · versão 5.1
+## Executar · versão 5.2
 
-**K abre e fecha** o painel no estilo das Configurações do projeto do Roblox Studio: degradê preto, coluna à esquerda e transições suaves. Lista com Cam Lock, Hitbox, Triggerbot, Visual, Jogadores e Ajustes. Todas as opções anteriores foram preservadas, exceto a Hitbox (Painhood), removida a pedido do usuário. O status do trigger foi substituído por sons de ativação e desativação. Título ampliado, ícones brancos, entrada em sequência e brilho que acompanha o cursor. O Aim Viewer foi substituído por anti-aim independente na categoria Visual (tecla C, X/Y/Z ajustáveis, inicia desligado).
+**K abre e fecha** o painel no estilo das Configurações do projeto do Roblox Studio: degradê preto, coluna à esquerda e transições suaves. Lista com Cam Lock, Hitbox, Triggerbot, Visual, Jogadores e Ajustes. Todas as opções anteriores foram preservadas, exceto a Hitbox (Painhood), removida a pedido do usuário. O status do trigger foi substituído por sons de ativação e desativação. Título ampliado, ícones brancos, entrada em sequência e brilho que acompanha o cursor. A categoria Visual inclui Spectate / Aim Viewer com seleção por nome ou UserId, modos Personagem e Direção da mira, indicação explícita de aproximação/dado replicado e restauração da câmera. Use Observar na lista de Jogadores ou a pesquisa em Visual. O Anti-Aim permanece separado (tecla C, X/Y/Z ajustáveis, inicia desligado).
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/EDUVlNI/evini-loader/4f7b0b61ea9445382a518b5956539bd4405595ff/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EDUVlNI/evini-loader/76066d5f9412d3545bad71fc9d6d63188ce1a4fb/main.lua"))()
 ```
 
 [Detalhes, controles e limites](https://github.com/EDUVlNI/evini-loader). Compilação e testes simulados passaram; aparência, som e compatibilidade precisam de conferência dentro do jogo.

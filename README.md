@@ -1,11 +1,11 @@
 # EVINI · Da Hood
 
-## Executar · versão 5.3
+## Executar · versão 5.4
 
-**K abre e fecha** o painel no estilo das Configurações do projeto do Roblox Studio: degradê preto, coluna à esquerda e transições suaves. Lista com Cam Lock, Hitbox, Triggerbot, Visual, Jogadores e Ajustes. Todas as opções anteriores foram preservadas, exceto a Hitbox (Painhood), removida a pedido do usuário. O status do trigger foi substituído por sons de ativação e desativação. Botões minimalistas com ícones e texto, área clicável fixa, atração suave pelo mouse, compressão no clique e reflexos recortados nos elementos. Entrada em sequência com um controlador compartilhado. A categoria Visual inclui Spectate / Aim Viewer com seleção por nome ou UserId, modos Personagem e Direção da mira, indicação explícita de aproximação/dado replicado e restauração da câmera. Use Observar na lista de Jogadores ou a pesquisa em Visual. O Anti-Aim permanece separado (tecla C, X/Y/Z ajustáveis, inicia desligado).
+**K abre e fecha** o painel. A inicialização mostra barra central e degradê, depois termina com o menu fechado. Spectate acompanha a posição do personagem com rotação independente pelo mouse. AimViewer tem linha branca, exibida somente com dado de mira válido e atualizado exposto pelo jogo. Sem dados, informa a ausência e oculta a linha. Hover individual, restauração de câmera/mouse e limpeza corrigidos. Anti-Aim removido definitivamente. Compilação e testes simulados passaram; validação real no Roblox e disponibilidade da mira no Da Hood permanecem pendentes.
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/EDUVlNI/evini-loader/bf34559993de34c5bafbff9d73966114940d9916/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EDUVlNI/evini-loader/c5c54084f8c15cec39f40eea9d13736dcde817c4/main.lua"))()
 ```
 
 [Detalhes, controles e limites](https://github.com/EDUVlNI/evini-loader). Compilação e testes simulados passaram; aparência, som e compatibilidade precisam de conferência dentro do jogo.
